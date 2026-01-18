@@ -1,0 +1,22 @@
+# ===== Unreal Engine Generated =====
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# ===== Visual Studio / Editors =====
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.opendb
+*.sdf
+
+# ===== macOS / Xcode (safe to keep) =====
+*.xcodeproj
+*.xcworkspace
+
+# ===== Logs & Temp =====
+*.log
